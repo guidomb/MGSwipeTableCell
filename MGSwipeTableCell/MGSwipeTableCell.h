@@ -5,6 +5,7 @@
 
 #import <UIKit/UIKit.h>
 
+#import "MGSwipeButton.h"
 
 /** Transition types */
 typedef NS_ENUM(NSInteger, MGSwipeTransition) {

@@ -1,6 +1,7 @@
 MGSwipeTableCell
 ================
 
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 MGSwipeTableCell is an easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions. 
 
